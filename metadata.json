@@ -1,0 +1,5 @@
+{
+  "name": "Tidal Wave Mix",
+  "description": "A Geometry Dash inspired wave game where you hold to go up and release to go down to avoid obstacles.",
+  "requestFramePermissions": []
+}
